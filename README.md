@@ -19,3 +19,9 @@ El flujo de la aplicación funciona de la siguiente manera:
 
 - Jetpack Compose detecta el cambio de estado y recompone la interfaz automáticamente para mostrar la tarjeta con el resultado exacto,
   o en su defecto, un mensaje de error si no hay conexión a internet.
+
+
+Nombre de la API utilizada:
+
+ExchangeRate-API (Versión de acceso abierto / Open Access).
+Enlace de consulta: https://open.er-api.com/v6/latest/USD
